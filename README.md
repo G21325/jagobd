@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="[https://play.google.com/store/apps/details?id=com.aynaott.apps](https://play.google.com/store/apps/details?id=com.jagoapp.jagobd)"><img src="https://jagobd.com/logo-fb-final-final.png" alt="⭐ JAGOBD ⭐" width="200"></a>
+  <a href="[https://play.google.com/store/apps/details?id=com.aynaott.apps](https://play.google.com/store/apps/details?id=com.jagoapp.jagobd)"><img src="./img/jagobd.png" alt="⭐ JAGOBD ⭐" width="200"></a>
   <br>
   ⭐ JAGOBD⭐
   <br>
