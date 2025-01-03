@@ -11,4 +11,4 @@
   <br>
 </h1>
 
-<h2 align="center">A script designed to Play JAgobd hls link In Claper PLAyer</h2>
+<h2 align="center">A script designed to play jagobd hls iink in claper player</h2>
