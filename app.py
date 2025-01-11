@@ -12,7 +12,7 @@ HTML_TEMPLATE = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dynamic Video Player</title>
+  <title>Jagobd Danamicaly Play Script</title>
   <script src="//content.jwplatform.com/libraries/SAHhwvZq.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/level-selector@0.2.0/dist/level-selector.min.js"></script>
