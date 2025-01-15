@@ -3,7 +3,7 @@ from flask import Flask, request, render_template_string
 app = Flask(__name__)
 
 # Base URL for m3u8 links
-BASE_URL = "https://app.ncare.live/live-orgin"
+BASE_URL = "https://app.ncare.live/live-orgin/"
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
